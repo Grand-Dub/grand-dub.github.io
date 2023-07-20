@@ -22,7 +22,7 @@ title: Grand Dub
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site de Grand Dub.
-  C'est point d'entrée de mes autres publications.
+  C'est le point d'entrée de mes autres publications.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
