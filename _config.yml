@@ -30,8 +30,9 @@ github_username:  grand-dub
 
 # Build settings
 #theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
