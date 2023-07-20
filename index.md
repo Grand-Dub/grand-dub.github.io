@@ -1,3 +1,8 @@
+---
+title: Grand Dub
+layout: page
+---
+
 ![Grand Dub](images/gd-logo-fontmeme-com.png)
 
 ---
