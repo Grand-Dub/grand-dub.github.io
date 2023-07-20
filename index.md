@@ -1,8 +1,6 @@
 ![Grand Dub](images/gd-logo-fontmeme-com.png)
 
 ---
-Bienvenue sur ce site.  
-Il sert de point d'entrée à mes autres activités publiques
 
 Mes sites
 =========
