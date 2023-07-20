@@ -33,6 +33,10 @@ github_username:  grand-dub
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-locale
+
+localization:
+  locale: fr-FR
 
 # Exclude from processing.
 # The following items will not be processed, by default.
