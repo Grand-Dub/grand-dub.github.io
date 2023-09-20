@@ -28,6 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 github_username:  grand-dub
 
+locale: fr_FR
+
 # Build settings
 #theme: minima
 plugins:
