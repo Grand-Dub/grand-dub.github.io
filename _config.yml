@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  grand-dub
 
 locale: fr_FR
+lang: fr
 
 # Build settings
 #theme: minima
